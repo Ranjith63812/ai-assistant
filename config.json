@@ -1,0 +1,4 @@
+{
+  "provider": "local",
+  "model": "qwen:0.5b"
+}
