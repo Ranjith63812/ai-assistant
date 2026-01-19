@@ -25,9 +25,13 @@ A powerful, dual-mode AI chat application that bridges local privacy and cloud p
 
 ## 📦 Installation & Setup
 
-### 🚀 Quick Start (Windows)
-We provide a one-click startup script!
-1.  Double-click **`start_app.bat`** in the root folder.
+### �️ One-Time Setup (Run First)
+To automatically install all dependencies (Python, Node.js, and Ollama models):
+1.  Double-click **`setup.bat`**.
+2.  Wait for it to finish successfully.
+
+### 🚀 Launch App (Daily Use)
+1.  Double-click **`start_app.bat`**.
 2.  The Backend and Frontend will launch automatically.
 3.  Open browser to `http://localhost:5173`.
 
